@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Resume dataset contains personal data - keep it out of the repo
+data/*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
